@@ -16,4 +16,11 @@ Diagrams -
 Today we learned about flow charts and diagrams and how useful they are to view the necessary steps to complete a task.
 
 Git -
-Today I setup my git repos for my group and also my personal git repo. This was pretty easy since I have used git before.
+Today I setup my git repos for my group and also my personal git repo. This was pretty easy since I have used git before
+
+-I helped my cousin fix a few problems with his computer today.
+
+-Today we setup our team project on kanban and I think kanban is a really good way to keep track of tasks since its in github
+
+-I went to the gym today and did wieght training.
+
