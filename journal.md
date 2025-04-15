@@ -24,3 +24,10 @@ Today I setup my git repos for my group and also my personal git repo. This was 
 
 -I went to the gym today and did wieght training.
 
+- Today I worked on the login system for our youface app
+
+- Today I made a functioning blackjack game in our youface site with coins (money) working.
+
+- I Learned about containerization and how to use docker today.
+- 
+
